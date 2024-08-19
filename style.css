@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(245, 241, 241);
+}
+
+img{
+    border-radius: 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.footer-item a{
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: red;
+     
+ }
+
+.text-wel{
+    background-color: lightgray;
+}
